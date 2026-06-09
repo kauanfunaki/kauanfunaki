@@ -54,8 +54,11 @@ const kauan = {
 **Infra & Tools**
 
 <img src="https://skillicons.dev/icons?i=docker,git,azure,linux" />
-<img src="https://img.icons8.com/color/48/power-bi.png" width="38" height="38" title="Power BI" />
-<img src="https://avatars.githubusercontent.com/u/45487711?s=48&v=4" width="45" height="45" title="n8n" />
+
+<br/>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
@@ -64,9 +67,9 @@ const kauan = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kauanfunaki&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&locale=en&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kauanfunaki&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&locale=en&card_width=400" width="450" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanfunaki&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&locale=en&card_width=400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanfunaki&layout=compact&langs_count=6&theme=tokyonight&hide_border=false&locale=en&card_width=400" width="450" />
 </div>
 
 ---
