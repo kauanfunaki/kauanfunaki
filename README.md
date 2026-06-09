@@ -1,16 +1,17 @@
-## Hi there 👋
+### Kauan Brasileiro
 
-<!--
-**kauanfunaki/kauanfunaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer at **41 Tech**, building internal systems and automation
+tools for corporate and accounting operations.
 
-Here are some ideas to get you started:
+**Main stack**
+- Frontend: React · TypeScript · Vite · Tailwind CSS · shadcn/ui
+- Backend: Node.js · Express · Drizzle ORM · PostgreSQL
+- Automation: n8n · Python
+- Infra: Docker · EasyPanel · WireGuard VPN
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm building**
+- 🏢 **41 Hub** — corporate portal with helpdesk, RBAC and Azure AD auth
+- 📊 **FinSight** — financial BI dashboard (Power BI + DAX)
+- 🔍 **Watchers** — folder monitoring for BPO/BLD pipelines via Python + n8n
+- 🚗 **Frota-Link** — fleet management system
+- 💡 **DevPulse** — VS Code extension + productivity dashboard
